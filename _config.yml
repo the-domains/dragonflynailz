@@ -1,0 +1,47 @@
+typography_spectrum: 0.1466376360040158
+color:
+  brandStrength: 0.48158982349559665
+  lightness: 0.20851631788536906
+  saturation: 0.5921830511651933
+  rhythmicContrast: 0.03292762581259012
+  brandColors:
+    - '#FEFEFE'
+    - '#0E0F14'
+    - '#00AEA4'
+    - '#2A5856'
+    - '#819D9E'
+github: true
+opengraph:
+  type: '@DragonflyNailz'
+layout_spectrum: 0.19851108454167843
+author:
+  name: Kim OKe
+  email: dragonflynailz@gmail.com
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/31b5d128-dafd-49b3-9db5-aa2757cee916.jpg
+name: Dragonfly Nailz
+navigation:
+  - name: Price
+    id: 2f23b790-28a4-492b-acd9-c8419a0825f5
+    type: content
+  - name: Hours
+    id: 864d6044-55ec-4022-8b87-348992c16bda
+    type: content
+  - name: 2016 Nails
+    url: >-
+      https://www.facebook.com/1435273276690847/photos/?tab=album&album_id=1669907599894079
+    type: external
+  - name: YouTube Nail Art
+    url: 'https://www.youtube.com/playlist?list=PLiuaWvyPaXSJiOcBaAvK3-is_PCtegPdv'
+    type: external
+  - name: Old YouTube Channel
+    url: 'https://www.youtube.com/user/DragonflyNailzArt'
+    type: external
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/5993dcc3-e950-4cc2-9c64-4d92812ab50c.jpg
+title: Dragonfly Nailz
+description: One Price - Endless Possibilities
+purpose:
+  - type: contact
+    url: 'tel:0416121345'
+    label: Make a Booking
