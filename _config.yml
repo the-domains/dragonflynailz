@@ -21,16 +21,16 @@ logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/31b5d128-dafd-49b3-9db5-aa2757cee916.jpg
 name: Dragonfly Nailz
 navigation:
+  - name: 2016 Nails
+    url: >-
+      https://www.facebook.com/1435273276690847/photos/?tab=album&album_id=1669907599894079
+    type: external
   - name: Price
     id: 2f23b790-28a4-492b-acd9-c8419a0825f5
     type: content
   - name: Hours
     id: 864d6044-55ec-4022-8b87-348992c16bda
     type: content
-  - name: 2016 Nails
-    url: >-
-      https://www.facebook.com/1435273276690847/photos/?tab=album&album_id=1669907599894079
-    type: external
   - name: YouTube Nail Art
     url: 'https://www.youtube.com/playlist?list=PLiuaWvyPaXSJiOcBaAvK3-is_PCtegPdv'
     type: external
@@ -40,6 +40,7 @@ navigation:
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/5993dcc3-e950-4cc2-9c64-4d92812ab50c.jpg
 title: Dragonfly Nailz
+content: []
 description: One Price - Endless Possibilities
 purpose:
   - type: contact
