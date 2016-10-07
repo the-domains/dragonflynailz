@@ -24,13 +24,13 @@ navigation:
   - name: Hours
     id: 864d6044-55ec-4022-8b87-348992c16bda
     type: content
+  - name: Price
+    id: 2f23b790-28a4-492b-acd9-c8419a0825f5
+    type: content
   - name: 2016 Nails
     url: >-
       https://www.facebook.com/1435273276690847/photos/?tab=album&album_id=1669907599894079
     type: external
-  - name: Price
-    id: 2f23b790-28a4-492b-acd9-c8419a0825f5
-    type: content
   - name: YouTube Nail Art
     url: 'https://www.youtube.com/playlist?list=PLiuaWvyPaXSJiOcBaAvK3-is_PCtegPdv'
     type: external
